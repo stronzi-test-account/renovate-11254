@@ -1,0 +1,1 @@
+ingress_nginx_backend_version: "1.5" # renovate: datasource=docker depName=defaultbackend-amd64 registryUrl=https://k8s.gcr.io versioning=docker
